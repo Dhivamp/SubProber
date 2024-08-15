@@ -194,6 +194,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to h
 ### Author:
 This tool is developed by [D.Sanjai Kumar](https://www.linkedin.com/in/d-sanjai-kumar-109a7227b/) for support the open source community for CyberSecurity and Ethical Hacking and
 The Subprober is built for reconnaissance and ethical hacking purposes and developer is not responsible for any unethical purposes so
-please use the Subprober with responsible and Ethically . Happy Hacking Hackers you can support my contribution by giving a ⭐ to the Subprober which motivate me to develop more like this ♥️.
+please use the Subprober with responsible and Ethically . Happy Hacking Hackers you can support my contribution by giving a ⭐ to the Subprober which motivate me to develop more like this ♥️. 
 
 
